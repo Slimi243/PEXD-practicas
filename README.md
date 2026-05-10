@@ -1,2 +1,14 @@
-# PEXD-practicas
-Repositorio de prácticas y proyectos de Programación para la Extracción de Datos.
+# PEXD
+
+Repositorio de la materia Programación para la Extracción de Datos.
+
+## Contenido
+- Prácticas
+- Ejercicios
+- Proyectos
+
+## Tecnologías utilizadas
+- Python
+
+## Autor
+Esteban Merin
